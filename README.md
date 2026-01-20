@@ -1,4 +1,7 @@
 # 📊 Aadhaar Enrolment & Update Analysis  
+
+![UIDAI 2026](images/chart.png)
+
 ### UIDAI Data Hackathon 2026 (UIDAI)
 
 A data-driven analytical project focused on understanding Aadhaar enrolment patterns, demographic and biometric update behaviors, and operational service bottlenecks. This repository provides transparent, reproducible insights to support scalable, citizen-centric governance solutions.
